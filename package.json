@@ -54,7 +54,7 @@
     "@types/node-forge": "^0.9.5",
     "@types/uuid": "8.3.0",
     "@types/xmldom": "^0.1.28",
-    "ava": "^1.2.1",
+    "ava": "^3.13.0",
     "coveralls": "^3.0.2",
     "nyc": "^11.9.0",
     "tslint": "^5.12.1",
