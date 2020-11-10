@@ -37,7 +37,7 @@
     "deflate-js": "^0.2.3",
     "node-forge": "^0.10.0",
     "node-rsa": "^1.0.5",
-    "uuid": "^3.3.2",
+    "uuid": "^8.3.1",
     "xml": "^1.0.1",
     "xml-crypto": "^2.0.0",
     "xmldom": "^0.3.0",
