@@ -33,7 +33,7 @@
   "license": "MIT",
   "dependencies": {
     "@authenio/xml-encryption": "^1.2.2",
-    "camelcase": "^5.3.1",
+    "camelcase": "^6.2.0",
     "deflate-js": "^0.2.3",
     "node-forge": "^0.10.0",
     "node-rsa": "^1.0.5",
